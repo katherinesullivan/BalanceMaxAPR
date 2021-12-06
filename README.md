@@ -6,7 +6,7 @@ This program's purpose is to arrange a deposit in such a way that the we can max
 
 ## How does the program work?
 
-Given a sum of money to deposit and information about the pools available to deposit, the program will calculate how much money should be deposited in each pool in order to have the resulting aprs of the pools sharing the highest apr possible.
+Given a sum of money to deposit and information about the pools available for deposit, the program will calculate how much money should be deposited in each pool in order to have the resulting aprs of the pools sharing the highest apr possible.
 
 ## How to run the program?
 
