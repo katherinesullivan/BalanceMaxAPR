@@ -1,0 +1,1 @@
+Verify normal execution with total amount to deposit not being an integer.

@@ -1,0 +1,3 @@
+Enter total amount to deposit: Enter pool name: Enter pool size: Enter pool apr: Do you want to enter another pool? (yes/no): Enter pool name: Enter pool size: Enter pool apr: Do you want to enter another pool? (yes/no): Enter pool name: Enter pool size: Enter pool apr: Do you want to enter another pool? (yes/no): Enter pool name: Enter pool size: Enter pool apr: Do you want to enter another pool? (yes/no): 
+In AAVE deposit 847853.884887. New size: 2847853.884878. New apr: 68.261929
+In BENQI deposit 152146.115105. New size: 987146.115122. New apr: 68.261931
